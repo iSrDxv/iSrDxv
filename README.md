@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+I am a web developer and game developer, I dedicate all my time to my works and public repositories, my main languages ​​are:
 
 <!--
 **iSrDxv/iSrDxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
