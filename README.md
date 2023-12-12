@@ -1,5 +1,5 @@
 # Hi there, welcome to my profile GitHUb 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isrdxv)](https://github.com/anuraghazra/github-readme-stats)
+![iSrDxv's GitHub stats](https://github-readme-stats.vercel.app/api?username=isrdxv&show_icons=true&theme=dark)
 ## About me
 You may have heard of me from some of my PocketMine plugins on Poggit, some on my github, and or leaks. Feel free to update them yourself or use community-updated versions on your servers. Please note that my support for those plugins will no longer be offered. Sorry for the inconvenience and thank you for your understanding. Please don't ask me about plugin support, you will be ignored or helped, it depends on the day.
 <!--
