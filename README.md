@@ -1,6 +1,7 @@
-# Hi there 👋
-I am a web developer and game developer, I dedicate all my time to my works and public repositories, my main languages ​​are:
+# Hi there, welcome to my profile GitHUb 👋
 
+## About me
+You may have heard of me from some of my PocketMine plugins on Poggit, some on my github, and or leaks. Feel free to update them yourself or use community-updated versions on your servers. Please note that my support for those plugins will no longer be offered. Sorry for the inconvenience and thank you for your understanding. Please don't ask me about plugin support, you will be ignored or helped, it depends on the day.
 <!--
 **iSrDxv/iSrDxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
